@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375661220582",
+    "project_id": "punsook-9e5c0",
+    "storage_bucket": "punsook-9e5c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375661220582:android:612cd28f681b5dcb852127",
+        "android_client_info": {
+          "package_name": "com.example.punsook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375661220582-frr77ahu7sp2aiclgvv659e0rocfhg5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.punsook",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "375661220582-in43n7cqb1k9b71qf5aihpakd9rl95t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVAofHTbdEbBHWnGGJrUKh_CO0yP_agI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375661220582-in43n7cqb1k9b71qf5aihpakd9rl95t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
